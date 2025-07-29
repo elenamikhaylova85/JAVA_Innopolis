@@ -19,7 +19,7 @@ public class Task3 {
         char[] chars = trimline.toLowerCase().toCharArray();//создаем массив сиволов из введенной строки в нижнем регистре
         Arrays.sort(chars);//сортируем
         String sorted=new String(chars);
-        System.out.println (chars);//результат
+        System.out.println (sorted);//результат
         scanner.close();
     }
     }
