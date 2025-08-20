@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Attestations/Attestations.iml" filepath="$PROJECT_DIR$/Attestations/Attestations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork3/HomeWork3.iml" filepath="$PROJECT_DIR$/HomeWork3/HomeWork3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork4/HomeWork4.iml" filepath="$PROJECT_DIR$/HomeWork4/HomeWork4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork5/HomeWork5.iml" filepath="$PROJECT_DIR$/HomeWork5/HomeWork5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWorks/HomeWorks.iml" filepath="$PROJECT_DIR$/HomeWorks/HomeWorks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA_Innopolis_HW.iml" filepath="$PROJECT_DIR$/.idea/JAVA_Innopolis_HW.iml" />
+    </modules>
+  </component>
+</project>
