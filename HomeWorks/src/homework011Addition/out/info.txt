@@ -1,0 +1,16 @@
+Автомобили в базе:
+Number Model Color Mileage Cost
+a123me Mercedes White 0 8300000.0
+b873of Volga Black 0 673000.0
+w487mn Lexus Grey 76000 900000.0
+p987hj Volga Red 610 704340.0
+c987ss Toyota White 254000 761000.0
+o983op Toyota Black 698000 740000.0
+p146op BMW White 271000 850000.0
+u893ii Toyota Purple 210900 440000.0
+l097df Toyota Black 108000 780000.0
+y876wd Toyota Black 160000 1000000.0
+1)Номера автомобилей с заданным цветом или нулевым пробегом: [b873of, o983op, y876wd, a123me, l097df]
+2)Количество уникальных моделей в ценовом диапазоне от 700.0 до 800.0 тыс.: 2
+3)Цвет автомобиля с минимальной стоимостью: Purple
+4)Средняя стоимость модели 'Volvo': 0.0
