@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Attestations.iml" filepath="$PROJECT_DIR$/Attestations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-console-game-template.iml" filepath="$PROJECT_DIR$/java-console-game-template.iml" />
     </modules>
   </component>
 </project>
